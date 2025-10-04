@@ -163,6 +163,22 @@ main {
     object-fit: cover;
 }
 
+.logo-image {
+    width: 210px !important;
+    height: 210px !important;
+    border-radius: 12px;
+    box-shadow: none !important;
+    object-fit: cover;
+    margin-bottom: 18px;
+}
+
+.intro-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 .intro-text h2 {
     margin-left: 24px;
     color: var(--color-gold);
