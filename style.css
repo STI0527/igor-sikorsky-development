@@ -226,6 +226,13 @@ main {
     margin-top: 12px;
 }
 
+.animation-image {
+    width: 600px;
+    height: 100%;
+    border-radius: 24px;
+    margin: 12px 0px;
+}
+
 .gallery img, .gallery-grid img {
     width: 360px;
     border-radius: 16px;
